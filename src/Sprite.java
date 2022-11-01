@@ -3,7 +3,7 @@ import java.awt.event.KeyEvent;
 import javax.swing.ImageIcon;
 
 public class Sprite implements Runnable{
-    private String sprite = "carrot.png";
+    private String sprite = "https://github.com/IIIFranklinIII/2D-game/blob/main/src/content/carrot.png?raw=true";
 
     private int dx;
     private int dy;
