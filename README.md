@@ -6,7 +6,7 @@
    - WASD - walk direction, navigation
 3. Update release:
    - Npc added :cowboy_hat_face:
-   - Dialogs
+   - Dialogs :phone:
    - Open world :sunrise_over_mountains:
    - Traps :mouse_trap:
    - Teleports :mage:
